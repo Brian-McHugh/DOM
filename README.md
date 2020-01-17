@@ -1,7 +1,7 @@
 # JavaScript and DOM Manipulation
 
 ## Deployment
-[Sightings](https://brian-mchugh.github.io/JavaScript-Challenge/UFO-level1/index.html)
+[Sightings](https://brian-mchugh.github.io/DOM/UFO-level1/index.html)
 
 ## Background
 
